@@ -22,3 +22,21 @@ a{
     margin-right: 200px;
     text-decoration: none;
 }
+
+footer{
+    color:white;
+    background-color: #0f1111;
+    text-align: center;
+
+}
+
+.contentbox{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display:inline-block;
+}
+
+#content{
+    height: 500px;
+}
